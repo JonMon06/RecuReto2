@@ -1,0 +1,41 @@
+# Java-related files
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE-specific files
+/.idea/
+*.iml
+*.ipr
+*.iws
+
+# Build directories
+/build/
+/out/
+/target/
+
+# Maven and Gradle files
+/.mvn/
+/.gradle/
+/*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+
+# Dependency directories
+/lib/
+/node_modules/
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Exclude user-specific files
+*.swp
+*.swo
+/.vscode/
